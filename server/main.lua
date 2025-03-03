@@ -26,7 +26,7 @@ local MugShotWebhook = ''
 
 -- Clock-in notifications for duty. Add a Discord webhook.
 -- Command /mdtleaderboard, will display top players per clock-in hours.
-local ClockinWebhook = ''
+local ClockinWebhook = 'https://discord.com/api/webhooks/1345656560029798463/r8-uBHkVYUHr3ixSTvcpsoSabc3NTw1dr1OWwDm70ggHZ8dczrmZFG9iMe9kAZa2SEkd'
 
 -- Incident and Incident editting. Add a Discord webhook.
 -- Incident Author, Title, and Report will display in webhook post.
